@@ -1,0 +1,18 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+*{
+  box-sizing: border-box;
+}
+
+@layer base{
+  @font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+  }
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+}

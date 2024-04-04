@@ -1,0 +1,4074 @@
+[
+  {
+    "id": 31,
+    "purchase_key": "0Nueq4UchbENUpAP",
+    "digital_file_id": 9,
+    "tracking_number": "20230314645031",
+    "customer_id": 3,
+    "created_at": "2023-03-14T07:11:06.000000Z",
+    "updated_at": "2023-03-14T07:11:06.000000Z",
+    "order": {
+      "id": 56,
+      "tracking_number": "20230314645031",
+      "customer_id": 3,
+      "customer_contact": "19365141641631",
+      "customer_name": "Customer",
+      "amount": 25,
+      "sales_tax": 1.25,
+      "paid_total": 26.25,
+      "total": 26.25,
+      "cancelled_amount": "0.00",
+      "language": "en",
+      "coupon_id": null,
+      "parent_id": null,
+      "shop_id": null,
+      "discount": null,
+      "payment_gateway": "STRIPE",
+      "shipping_address": null,
+      "billing_address": null,
+      "logistics_provider": null,
+      "delivery_fee": null,
+      "delivery_time": null,
+      "order_status": "order-completed",
+      "payment_status": "payment-success",
+      "created_at": "2023-03-14T07:11:06.000000Z",
+      "customer": {
+        "id": 3,
+        "name": "Customer",
+        "email": "customer@demo.com",
+        "email_verified_at": null,
+        "created_at": "2022-02-02T11:00:07.000000Z",
+        "updated_at": "2022-02-02T11:00:07.000000Z",
+        "is_active": 1,
+        "shop_id": null
+      },
+      "products": [
+        {
+          "id": 9,
+          "name": "Busineessmind GraphQL React WordPress Business Theme",
+          "slug": "busineessmind",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 3,
+          "price": 25,
+          "shop_id": 2,
+          "sale_price": null,
+          "language": "en",
+          "min_price": 25,
+          "max_price": 25,
+          "sku": "9f87a84a54564vsdv",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 610,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/608/image33.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/608/conversions/image33-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 611,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/609/image27.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/609/conversions/image27-thumbnail.jpg"
+            },
+            {
+              "id": 612,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/610/image33.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/610/conversions/image33-thumbnail.jpg"
+            },
+            {
+              "id": 613,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/611/image35.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/611/conversions/image35-thumbnail.jpg"
+            },
+            {
+              "id": 614,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/612/image36.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/612/conversions/image36-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-23T06:58:18.000000Z",
+          "updated_at": "2022-03-07T12:47:00.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 0,
+          "total_reviews": 0,
+          "rating_count": [],
+          "my_review": null,
+          "in_wishlist": false,
+          "total_downloads": 5,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 56,
+            "product_id": 9,
+            "order_quantity": "1",
+            "unit_price": 25,
+            "subtotal": 25,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T07:11:06.000000Z",
+            "updated_at": "2023-03-14T07:11:06.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 9,
+            "attachment_id": 615,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 9,
+            "created_at": "2022-01-23T06:58:18.000000Z",
+            "updated_at": "2022-03-07T12:47:00.000000Z"
+          }
+        }
+      ]
+    },
+    "file": {
+      "id": 9,
+      "attachment_id": 615,
+      "file_name": "",
+      "fileable_type": "Marvel\\Database\\Models\\Product",
+      "fileable_id": 9,
+      "created_at": "2022-01-23T06:58:18.000000Z",
+      "updated_at": "2022-03-07T12:47:00.000000Z",
+      "fileable": {
+        "id": 9,
+        "name": "Busineessmind GraphQL React WordPress Business Theme",
+        "slug": "busineessmind",
+        "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+        "type_id": 3,
+        "price": 25,
+        "shop_id": 2,
+        "sale_price": null,
+        "language": "en",
+        "min_price": 25,
+        "max_price": 25,
+        "sku": "9f87a84a54564vsdv",
+        "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+        "quantity": 500,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "simple",
+        "unit": "1",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+          "id": 610,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/608/image33.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/608/conversions/image33-thumbnail.jpg"
+        },
+        "video": null,
+        "gallery": [
+          {
+            "id": 611,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/609/image27.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/609/conversions/image27-thumbnail.jpg"
+          },
+          {
+            "id": 612,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/610/image33.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/610/conversions/image33-thumbnail.jpg"
+          },
+          {
+            "id": 613,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/611/image35.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/611/conversions/image35-thumbnail.jpg"
+          },
+          {
+            "id": 614,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/612/image36.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/612/conversions/image36-thumbnail.jpg"
+          }
+        ],
+        "deleted_at": null,
+        "created_at": "2022-01-23T06:58:18.000000Z",
+        "updated_at": "2022-03-07T12:47:00.000000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 1,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 0,
+        "total_reviews": 0,
+        "rating_count": [],
+        "my_review": null,
+        "in_wishlist": false,
+        "total_downloads": 5,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "shop": {
+          "id": 2,
+          "owner_id": 1,
+          "name": "BentaSoft",
+          "slug": "fusion-digital",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "cover_image": {
+            "id": 100,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/100/Cover-2.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/100/conversions/Cover-2-thumbnail.jpg"
+          },
+          "logo": {
+            "id": 101,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/101/Group-14392.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/101/conversions/Group-14392-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+            "zip": "06103",
+            "city": "Hartford",
+            "state": "Connecticut",
+            "country": "USA",
+            "street_address": "2711 Meadow View Drive"
+          },
+          "settings": {
+            "contact": "+659033724396",
+            "socials": [
+              {
+                "url": "https://www.facebook.com/redqinc/",
+                "icon": "FacebookIcon"
+              },
+              {
+                "url": "https://www.instagram.com/redqinc/",
+                "icon": "InstagramIcon"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw",
+                "icon": "YouTubeIcon"
+              }
+            ],
+            "website": "https://redq.io/",
+            "location": []
+          },
+          "created_at": "2022-01-22T16:51:34.000000Z",
+          "updated_at": "2022-02-15T06:06:45.000000Z"
+        },
+        "digital_file": {
+          "id": 9,
+          "attachment_id": 615,
+          "file_name": "",
+          "fileable_type": "Marvel\\Database\\Models\\Product",
+          "fileable_id": 9,
+          "created_at": "2022-01-23T06:58:18.000000Z",
+          "updated_at": "2022-03-07T12:47:00.000000Z"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "purchase_key": "7DzudzY68k2DcRhy",
+    "digital_file_id": 16,
+    "tracking_number": "20230314790649",
+    "customer_id": 3,
+    "created_at": "2023-03-14T08:52:08.000000Z",
+    "updated_at": "2023-03-14T08:52:08.000000Z",
+    "order": {
+      "id": 58,
+      "tracking_number": "20230314790649",
+      "customer_id": 3,
+      "customer_contact": "19365141641631",
+      "customer_name": "Customer",
+      "amount": 82,
+      "sales_tax": 4.1,
+      "paid_total": 86.1,
+      "total": 86.1,
+      "cancelled_amount": "0.00",
+      "language": "en",
+      "coupon_id": null,
+      "parent_id": null,
+      "shop_id": null,
+      "discount": null,
+      "payment_gateway": "STRIPE",
+      "shipping_address": null,
+      "billing_address": null,
+      "logistics_provider": null,
+      "delivery_fee": null,
+      "delivery_time": null,
+      "order_status": "order-completed",
+      "payment_status": "payment-success",
+      "created_at": "2023-03-14T08:52:08.000000Z",
+      "customer": {
+        "id": 3,
+        "name": "Customer",
+        "email": "customer@demo.com",
+        "email_verified_at": null,
+        "created_at": "2022-02-02T11:00:07.000000Z",
+        "updated_at": "2022-02-02T11:00:07.000000Z",
+        "is_active": 1,
+        "shop_id": null
+      },
+      "products": [
+        {
+          "id": 16,
+          "name": "Bookify Rntal Laravel Rental Solution",
+          "slug": "bookify-rntal",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 4,
+          "price": 49,
+          "shop_id": 9,
+          "sale_price": 43,
+          "language": "en",
+          "min_price": 49,
+          "max_price": 49,
+          "sku": "8g4fda894gdag/489dvb",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 770,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/768/image13.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/768/conversions/image13-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 771,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/769/image12.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/769/conversions/image12-thumbnail.jpg"
+            },
+            {
+              "id": 772,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/770/image13.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/770/conversions/image13-thumbnail.jpg"
+            },
+            {
+              "id": 773,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/771/image14.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/771/conversions/image14-thumbnail.jpg"
+            },
+            {
+              "id": 774,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/772/image19.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/772/conversions/image19-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-26T16:03:51.000000Z",
+          "updated_at": "2022-03-07T13:38:06.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 0,
+          "total_reviews": 0,
+          "rating_count": [],
+          "my_review": null,
+          "in_wishlist": false,
+          "total_downloads": 1,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 58,
+            "product_id": 16,
+            "order_quantity": "1",
+            "unit_price": 43,
+            "subtotal": 43,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T08:52:08.000000Z",
+            "updated_at": "2023-03-14T08:52:08.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 16,
+            "attachment_id": 775,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 16,
+            "created_at": "2022-01-26T16:03:51.000000Z",
+            "updated_at": "2022-03-07T13:38:06.000000Z"
+          }
+        },
+        {
+          "id": 49,
+          "name": "ChawkBazar Laravel Flutter Mobile App",
+          "slug": "chawkbazar-laravel-flutter-mobile-app",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 3,
+          "price": 39,
+          "shop_id": 7,
+          "sale_price": null,
+          "language": "en",
+          "min_price": 39,
+          "max_price": 39,
+          "sku": "984a8sd4f89sd4f9s48s984v81a1v8df1v",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 394,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/Rectangle-773.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/conversions/Rectangle-773-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 395,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/Rectangle-773.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/conversions/Rectangle-773-thumbnail.jpg"
+            },
+            {
+              "id": 396,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/Rectangle-778.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/conversions/Rectangle-778-thumbnail.jpg"
+            },
+            {
+              "id": 397,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/Rectangle-782.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/conversions/Rectangle-782-thumbnail.jpg"
+            },
+            {
+              "id": 398,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/Rectangle-785.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/conversions/Rectangle-785-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-27T17:37:27.000000Z",
+          "updated_at": "2022-02-03T13:22:37.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 4.71,
+          "total_reviews": 7,
+          "rating_count": [
+            {
+              "rating": 5,
+              "total": 6,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "rating": 3,
+              "total": 1,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "my_review": [
+            {
+              "id": 1,
+              "order_id": 1,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Good clear code with excellent design.",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2022-05-11T05:27:53.000000Z",
+              "updated_at": "2022-05-11T05:27:53.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 23,
+              "order_id": 200,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "payment succeded",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-16T14:42:57.000000Z",
+              "updated_at": "2023-03-16T14:42:57.000000Z",
+              "positive_feedbacks_count": 1,
+              "negative_feedbacks_count": 0,
+              "my_feedback": {
+                "id": 13,
+                "user_id": 3,
+                "model_type": "Marvel\\Database\\Models\\Review",
+                "model_id": 23,
+                "positive": 1,
+                "negative": null,
+                "created_at": "2023-03-24T16:14:52.000000Z",
+                "updated_at": "2023-04-03T14:08:21.000000Z"
+              },
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 25,
+              "order_id": 299,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Good",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-17T13:38:53.000000Z",
+              "updated_at": "2023-03-17T13:38:53.000000Z",
+              "positive_feedbacks_count": 1,
+              "negative_feedbacks_count": 0,
+              "my_feedback": {
+                "id": 12,
+                "user_id": 3,
+                "model_type": "Marvel\\Database\\Models\\Review",
+                "model_id": 25,
+                "positive": 1,
+                "negative": null,
+                "created_at": "2023-03-24T16:14:48.000000Z",
+                "updated_at": "2023-04-03T14:08:20.000000Z"
+              },
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 32,
+              "order_id": 755,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "good",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-27T20:23:45.000000Z",
+              "updated_at": "2023-03-27T20:23:45.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 33,
+              "order_id": 763,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Great",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-28T02:43:44.000000Z",
+              "updated_at": "2023-03-28T02:43:44.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "in_wishlist": false,
+          "total_downloads": 152,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 58,
+            "product_id": 49,
+            "order_quantity": "1",
+            "unit_price": 39,
+            "subtotal": 39,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T08:52:08.000000Z",
+            "updated_at": "2023-03-14T08:52:08.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 49,
+            "attachment_id": 399,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 49,
+            "created_at": "2022-01-27T17:37:27.000000Z",
+            "updated_at": "2022-02-03T13:22:37.000000Z"
+          }
+        }
+      ]
+    },
+    "file": {
+      "id": 16,
+      "attachment_id": 775,
+      "file_name": "",
+      "fileable_type": "Marvel\\Database\\Models\\Product",
+      "fileable_id": 16,
+      "created_at": "2022-01-26T16:03:51.000000Z",
+      "updated_at": "2022-03-07T13:38:06.000000Z",
+      "fileable": {
+        "id": 16,
+        "name": "Bookify Rntal Laravel Rental Solution",
+        "slug": "bookify-rntal",
+        "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+        "type_id": 4,
+        "price": 49,
+        "shop_id": 9,
+        "sale_price": 43,
+        "language": "en",
+        "min_price": 49,
+        "max_price": 49,
+        "sku": "8g4fda894gdag/489dvb",
+        "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+        "quantity": 500,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "simple",
+        "unit": "1",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+          "id": 770,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/768/image13.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/768/conversions/image13-thumbnail.jpg"
+        },
+        "video": null,
+        "gallery": [
+          {
+            "id": 771,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/769/image12.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/769/conversions/image12-thumbnail.jpg"
+          },
+          {
+            "id": 772,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/770/image13.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/770/conversions/image13-thumbnail.jpg"
+          },
+          {
+            "id": 773,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/771/image14.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/771/conversions/image14-thumbnail.jpg"
+          },
+          {
+            "id": 774,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/772/image19.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/772/conversions/image19-thumbnail.jpg"
+          }
+        ],
+        "deleted_at": null,
+        "created_at": "2022-01-26T16:03:51.000000Z",
+        "updated_at": "2022-03-07T13:38:06.000000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 1,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 0,
+        "total_reviews": 0,
+        "rating_count": [],
+        "my_review": null,
+        "in_wishlist": false,
+        "total_downloads": 1,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "shop": {
+          "id": 9,
+          "owner_id": 1,
+          "name": "Maxicon Soft Tech",
+          "slug": "maxicon-soft-tech",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "cover_image": {
+            "id": 419,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/419/Cover-1.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/419/conversions/Cover-1-thumbnail.jpg"
+          },
+          "logo": {
+            "id": 199,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/199/Group-14403.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/199/conversions/Group-14403-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+            "zip": "53703",
+            "city": "Madison",
+            "state": "Wisconsin",
+            "country": "USA",
+            "street_address": "3405 Browning Lane"
+          },
+          "settings": {
+            "contact": "0799302967",
+            "socials": [
+              {
+                "url": "https://www.facebook.com/redqinc/",
+                "icon": "FacebookIcon"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw",
+                "icon": "YouTubeIcon"
+              },
+              {
+                "url": "https://www.instagram.com/redqinc/",
+                "icon": "InstagramIcon"
+              }
+            ],
+            "website": "https://redq.io/about-us",
+            "location": []
+          },
+          "created_at": "2022-01-26T15:56:04.000000Z",
+          "updated_at": "2022-02-23T14:43:57.000000Z"
+        },
+        "digital_file": {
+          "id": 16,
+          "attachment_id": 775,
+          "file_name": "",
+          "fileable_type": "Marvel\\Database\\Models\\Product",
+          "fileable_id": 16,
+          "created_at": "2022-01-26T16:03:51.000000Z",
+          "updated_at": "2022-03-07T13:38:06.000000Z"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "purchase_key": "eE0RURoBPm2RFZ24",
+    "digital_file_id": 49,
+    "tracking_number": "20230314790649",
+    "customer_id": 3,
+    "created_at": "2023-03-14T08:52:08.000000Z",
+    "updated_at": "2023-03-14T08:52:08.000000Z",
+    "order": {
+      "id": 58,
+      "tracking_number": "20230314790649",
+      "customer_id": 3,
+      "customer_contact": "19365141641631",
+      "customer_name": "Customer",
+      "amount": 82,
+      "sales_tax": 4.1,
+      "paid_total": 86.1,
+      "total": 86.1,
+      "cancelled_amount": "0.00",
+      "language": "en",
+      "coupon_id": null,
+      "parent_id": null,
+      "shop_id": null,
+      "discount": null,
+      "payment_gateway": "STRIPE",
+      "shipping_address": null,
+      "billing_address": null,
+      "logistics_provider": null,
+      "delivery_fee": null,
+      "delivery_time": null,
+      "order_status": "order-completed",
+      "payment_status": "payment-success",
+      "created_at": "2023-03-14T08:52:08.000000Z",
+      "customer": {
+        "id": 3,
+        "name": "Customer",
+        "email": "customer@demo.com",
+        "email_verified_at": null,
+        "created_at": "2022-02-02T11:00:07.000000Z",
+        "updated_at": "2022-02-02T11:00:07.000000Z",
+        "is_active": 1,
+        "shop_id": null
+      },
+      "products": [
+        {
+          "id": 16,
+          "name": "Bookify Rntal Laravel Rental Solution",
+          "slug": "bookify-rntal",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 4,
+          "price": 49,
+          "shop_id": 9,
+          "sale_price": 43,
+          "language": "en",
+          "min_price": 49,
+          "max_price": 49,
+          "sku": "8g4fda894gdag/489dvb",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 770,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/768/image13.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/768/conversions/image13-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 771,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/769/image12.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/769/conversions/image12-thumbnail.jpg"
+            },
+            {
+              "id": 772,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/770/image13.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/770/conversions/image13-thumbnail.jpg"
+            },
+            {
+              "id": 773,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/771/image14.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/771/conversions/image14-thumbnail.jpg"
+            },
+            {
+              "id": 774,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/772/image19.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/772/conversions/image19-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-26T16:03:51.000000Z",
+          "updated_at": "2022-03-07T13:38:06.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 0,
+          "total_reviews": 0,
+          "rating_count": [],
+          "my_review": null,
+          "in_wishlist": false,
+          "total_downloads": 1,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 58,
+            "product_id": 16,
+            "order_quantity": "1",
+            "unit_price": 43,
+            "subtotal": 43,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T08:52:08.000000Z",
+            "updated_at": "2023-03-14T08:52:08.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 16,
+            "attachment_id": 775,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 16,
+            "created_at": "2022-01-26T16:03:51.000000Z",
+            "updated_at": "2022-03-07T13:38:06.000000Z"
+          }
+        },
+        {
+          "id": 49,
+          "name": "ChawkBazar Laravel Flutter Mobile App",
+          "slug": "chawkbazar-laravel-flutter-mobile-app",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 3,
+          "price": 39,
+          "shop_id": 7,
+          "sale_price": null,
+          "language": "en",
+          "min_price": 39,
+          "max_price": 39,
+          "sku": "984a8sd4f89sd4f9s48s984v81a1v8df1v",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 394,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/Rectangle-773.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/conversions/Rectangle-773-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 395,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/Rectangle-773.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/conversions/Rectangle-773-thumbnail.jpg"
+            },
+            {
+              "id": 396,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/Rectangle-778.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/conversions/Rectangle-778-thumbnail.jpg"
+            },
+            {
+              "id": 397,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/Rectangle-782.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/conversions/Rectangle-782-thumbnail.jpg"
+            },
+            {
+              "id": 398,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/Rectangle-785.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/conversions/Rectangle-785-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-27T17:37:27.000000Z",
+          "updated_at": "2022-02-03T13:22:37.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 4.71,
+          "total_reviews": 7,
+          "rating_count": [
+            {
+              "rating": 5,
+              "total": 6,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "rating": 3,
+              "total": 1,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "my_review": [
+            {
+              "id": 1,
+              "order_id": 1,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Good clear code with excellent design.",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2022-05-11T05:27:53.000000Z",
+              "updated_at": "2022-05-11T05:27:53.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 23,
+              "order_id": 200,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "payment succeded",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-16T14:42:57.000000Z",
+              "updated_at": "2023-03-16T14:42:57.000000Z",
+              "positive_feedbacks_count": 1,
+              "negative_feedbacks_count": 0,
+              "my_feedback": {
+                "id": 13,
+                "user_id": 3,
+                "model_type": "Marvel\\Database\\Models\\Review",
+                "model_id": 23,
+                "positive": 1,
+                "negative": null,
+                "created_at": "2023-03-24T16:14:52.000000Z",
+                "updated_at": "2023-04-03T14:08:21.000000Z"
+              },
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 25,
+              "order_id": 299,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Good",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-17T13:38:53.000000Z",
+              "updated_at": "2023-03-17T13:38:53.000000Z",
+              "positive_feedbacks_count": 1,
+              "negative_feedbacks_count": 0,
+              "my_feedback": {
+                "id": 12,
+                "user_id": 3,
+                "model_type": "Marvel\\Database\\Models\\Review",
+                "model_id": 25,
+                "positive": 1,
+                "negative": null,
+                "created_at": "2023-03-24T16:14:48.000000Z",
+                "updated_at": "2023-04-03T14:08:20.000000Z"
+              },
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 32,
+              "order_id": 755,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "good",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-27T20:23:45.000000Z",
+              "updated_at": "2023-03-27T20:23:45.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 33,
+              "order_id": 763,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Great",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-28T02:43:44.000000Z",
+              "updated_at": "2023-03-28T02:43:44.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "in_wishlist": false,
+          "total_downloads": 152,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 58,
+            "product_id": 49,
+            "order_quantity": "1",
+            "unit_price": 39,
+            "subtotal": 39,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T08:52:08.000000Z",
+            "updated_at": "2023-03-14T08:52:08.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 49,
+            "attachment_id": 399,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 49,
+            "created_at": "2022-01-27T17:37:27.000000Z",
+            "updated_at": "2022-02-03T13:22:37.000000Z"
+          }
+        }
+      ]
+    },
+    "file": {
+      "id": 49,
+      "attachment_id": 399,
+      "file_name": "",
+      "fileable_type": "Marvel\\Database\\Models\\Product",
+      "fileable_id": 49,
+      "created_at": "2022-01-27T17:37:27.000000Z",
+      "updated_at": "2022-02-03T13:22:37.000000Z",
+      "fileable": {
+        "id": 49,
+        "name": "ChawkBazar Laravel Flutter Mobile App",
+        "slug": "chawkbazar-laravel-flutter-mobile-app",
+        "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+        "type_id": 3,
+        "price": 39,
+        "shop_id": 7,
+        "sale_price": null,
+        "language": "en",
+        "min_price": 39,
+        "max_price": 39,
+        "sku": "984a8sd4f89sd4f9s48s984v81a1v8df1v",
+        "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+        "quantity": 500,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "simple",
+        "unit": "1",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+          "id": 394,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/Rectangle-773.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/conversions/Rectangle-773-thumbnail.jpg"
+        },
+        "video": null,
+        "gallery": [
+          {
+            "id": 395,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/Rectangle-773.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/conversions/Rectangle-773-thumbnail.jpg"
+          },
+          {
+            "id": 396,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/Rectangle-778.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/conversions/Rectangle-778-thumbnail.jpg"
+          },
+          {
+            "id": 397,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/Rectangle-782.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/conversions/Rectangle-782-thumbnail.jpg"
+          },
+          {
+            "id": 398,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/Rectangle-785.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/conversions/Rectangle-785-thumbnail.jpg"
+          }
+        ],
+        "deleted_at": null,
+        "created_at": "2022-01-27T17:37:27.000000Z",
+        "updated_at": "2022-02-03T13:22:37.000000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 1,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.71,
+        "total_reviews": 7,
+        "rating_count": [
+          {
+            "rating": 5,
+            "total": 6,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "rating": 3,
+            "total": 1,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          }
+        ],
+        "my_review": [
+          {
+            "id": 1,
+            "order_id": 1,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "Good clear code with excellent design.",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2022-05-11T05:27:53.000000Z",
+            "updated_at": "2022-05-11T05:27:53.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 23,
+            "order_id": 200,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "payment succeded",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-16T14:42:57.000000Z",
+            "updated_at": "2023-03-16T14:42:57.000000Z",
+            "positive_feedbacks_count": 1,
+            "negative_feedbacks_count": 0,
+            "my_feedback": {
+              "id": 13,
+              "user_id": 3,
+              "model_type": "Marvel\\Database\\Models\\Review",
+              "model_id": 23,
+              "positive": 1,
+              "negative": null,
+              "created_at": "2023-03-24T16:14:52.000000Z",
+              "updated_at": "2023-04-03T14:08:21.000000Z"
+            },
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 25,
+            "order_id": 299,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "Good",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-17T13:38:53.000000Z",
+            "updated_at": "2023-03-17T13:38:53.000000Z",
+            "positive_feedbacks_count": 1,
+            "negative_feedbacks_count": 0,
+            "my_feedback": {
+              "id": 12,
+              "user_id": 3,
+              "model_type": "Marvel\\Database\\Models\\Review",
+              "model_id": 25,
+              "positive": 1,
+              "negative": null,
+              "created_at": "2023-03-24T16:14:48.000000Z",
+              "updated_at": "2023-04-03T14:08:20.000000Z"
+            },
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 32,
+            "order_id": 755,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "good",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-27T20:23:45.000000Z",
+            "updated_at": "2023-03-27T20:23:45.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 33,
+            "order_id": 763,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "Great",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-28T02:43:44.000000Z",
+            "updated_at": "2023-03-28T02:43:44.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          }
+        ],
+        "in_wishlist": false,
+        "total_downloads": 152,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "shop": {
+          "id": 7,
+          "owner_id": 1,
+          "name": "Omnico Team",
+          "slug": "omnico-team",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "cover_image": {
+            "id": 193,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/193/Cover-2.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/193/conversions/Cover-2-thumbnail.jpg"
+          },
+          "logo": {
+            "id": 194,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/194/Group-14398.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/194/conversions/Group-14398-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+            "zip": "36104",
+            "city": "Montgomery",
+            "state": "Alabama",
+            "country": "USA",
+            "street_address": "2834 Fleming Street"
+          },
+          "settings": {
+            "contact": "0799302967",
+            "socials": [
+              {
+                "url": "https://www.facebook.com/redqinc/",
+                "icon": "FacebookIcon"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw",
+                "icon": "YouTubeIcon"
+              },
+              {
+                "url": "https://www.instagram.com/redqinc/",
+                "icon": "InstagramIcon"
+              }
+            ],
+            "website": "https://redq.io/",
+            "location": []
+          },
+          "created_at": "2022-01-26T15:53:03.000000Z",
+          "updated_at": "2022-02-20T13:41:15.000000Z"
+        },
+        "digital_file": {
+          "id": 49,
+          "attachment_id": 399,
+          "file_name": "",
+          "fileable_type": "Marvel\\Database\\Models\\Product",
+          "fileable_id": 49,
+          "created_at": "2022-01-27T17:37:27.000000Z",
+          "updated_at": "2022-02-03T13:22:37.000000Z"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "purchase_key": "sX1LJOiKtyXQngVt",
+    "digital_file_id": 50,
+    "tracking_number": "20230314462745",
+    "customer_id": 3,
+    "created_at": "2023-03-14T08:53:53.000000Z",
+    "updated_at": "2023-03-14T08:53:53.000000Z",
+    "order": {
+      "id": 61,
+      "tracking_number": "20230314462745",
+      "customer_id": 3,
+      "customer_contact": "19365141641631",
+      "customer_name": "Customer",
+      "amount": 70,
+      "sales_tax": 3.5,
+      "paid_total": 73.5,
+      "total": 73.5,
+      "cancelled_amount": "0.00",
+      "language": "en",
+      "coupon_id": null,
+      "parent_id": null,
+      "shop_id": null,
+      "discount": null,
+      "payment_gateway": "STRIPE",
+      "shipping_address": null,
+      "billing_address": null,
+      "logistics_provider": null,
+      "delivery_fee": null,
+      "delivery_time": null,
+      "order_status": "order-completed",
+      "payment_status": "payment-success",
+      "created_at": "2023-03-14T08:53:53.000000Z",
+      "customer": {
+        "id": 3,
+        "name": "Customer",
+        "email": "customer@demo.com",
+        "email_verified_at": null,
+        "created_at": "2022-02-02T11:00:07.000000Z",
+        "updated_at": "2022-02-02T11:00:07.000000Z",
+        "is_active": 1,
+        "shop_id": null
+      },
+      "products": [
+        {
+          "id": 50,
+          "name": "Scholar Multipurpose Education WordPress Theme",
+          "slug": "scholar-multipurpose-education-wordpress-theme",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 2,
+          "price": 79,
+          "shop_id": 4,
+          "sale_price": 70,
+          "language": "en",
+          "min_price": 79,
+          "max_price": 79,
+          "sku": "848er74g/7rehg7w/*er7h/w7g4561651gerwgwergwreger",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 496,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/494/image02.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/494/conversions/image02-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 497,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/495/image03.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/495/conversions/image03-thumbnail.jpg"
+            },
+            {
+              "id": 498,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/496/image04.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/496/conversions/image04-thumbnail.jpg"
+            },
+            {
+              "id": 499,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/497/image11.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/497/conversions/image11-thumbnail.jpg"
+            },
+            {
+              "id": 500,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/498/image20.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/498/conversions/image20-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-27T17:38:43.000000Z",
+          "updated_at": "2022-03-05T13:09:47.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 4.75,
+          "total_reviews": 4,
+          "rating_count": [
+            {
+              "rating": 5,
+              "total": 3,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "rating": 4,
+              "total": 1,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "my_review": [
+            {
+              "id": 3,
+              "order_id": 1,
+              "user_id": 3,
+              "shop_id": 4,
+              "product_id": 50,
+              "variation_option_id": null,
+              "comment": "Very great product, and one of the best research plugins on the WP scenario. It's a shame that the developer has no interest at all in developing the product. They do 1-2 updates per year and they're only bugfix or the minimum needed to support new PHP or WP versions.",
+              "rating": 4,
+              "photos": [
+                {
+                  "id": 862,
+                  "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/860/Turbo.png",
+                  "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/860/conversions/Turbo-thumbnail.jpg"
+                }
+              ],
+              "deleted_at": null,
+              "created_at": "2022-05-11T05:29:47.000000Z",
+              "updated_at": "2022-05-11T05:29:47.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 26,
+              "order_id": 361,
+              "user_id": 3,
+              "shop_id": 4,
+              "product_id": 50,
+              "variation_option_id": null,
+              "comment": "ok",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-18T14:16:37.000000Z",
+              "updated_at": "2023-03-18T14:16:37.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "in_wishlist": true,
+          "total_downloads": 10,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 61,
+            "product_id": 50,
+            "order_quantity": "1",
+            "unit_price": 70,
+            "subtotal": 70,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T08:53:53.000000Z",
+            "updated_at": "2023-03-14T08:53:53.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 50,
+            "attachment_id": 501,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 50,
+            "created_at": "2022-01-27T17:38:43.000000Z",
+            "updated_at": "2022-03-05T13:09:47.000000Z"
+          }
+        }
+      ]
+    },
+    "file": {
+      "id": 50,
+      "attachment_id": 501,
+      "file_name": "",
+      "fileable_type": "Marvel\\Database\\Models\\Product",
+      "fileable_id": 50,
+      "created_at": "2022-01-27T17:38:43.000000Z",
+      "updated_at": "2022-03-05T13:09:47.000000Z",
+      "fileable": {
+        "id": 50,
+        "name": "Scholar Multipurpose Education WordPress Theme",
+        "slug": "scholar-multipurpose-education-wordpress-theme",
+        "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+        "type_id": 2,
+        "price": 79,
+        "shop_id": 4,
+        "sale_price": 70,
+        "language": "en",
+        "min_price": 79,
+        "max_price": 79,
+        "sku": "848er74g/7rehg7w/*er7h/w7g4561651gerwgwergwreger",
+        "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+        "quantity": 500,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "simple",
+        "unit": "1",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+          "id": 496,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/494/image02.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/494/conversions/image02-thumbnail.jpg"
+        },
+        "video": null,
+        "gallery": [
+          {
+            "id": 497,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/495/image03.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/495/conversions/image03-thumbnail.jpg"
+          },
+          {
+            "id": 498,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/496/image04.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/496/conversions/image04-thumbnail.jpg"
+          },
+          {
+            "id": 499,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/497/image11.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/497/conversions/image11-thumbnail.jpg"
+          },
+          {
+            "id": 500,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/498/image20.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/498/conversions/image20-thumbnail.jpg"
+          }
+        ],
+        "deleted_at": null,
+        "created_at": "2022-01-27T17:38:43.000000Z",
+        "updated_at": "2022-03-05T13:09:47.000000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 1,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.75,
+        "total_reviews": 4,
+        "rating_count": [
+          {
+            "rating": 5,
+            "total": 3,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "rating": 4,
+            "total": 1,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          }
+        ],
+        "my_review": [
+          {
+            "id": 3,
+            "order_id": 1,
+            "user_id": 3,
+            "shop_id": 4,
+            "product_id": 50,
+            "variation_option_id": null,
+            "comment": "Very great product, and one of the best research plugins on the WP scenario. It's a shame that the developer has no interest at all in developing the product. They do 1-2 updates per year and they're only bugfix or the minimum needed to support new PHP or WP versions.",
+            "rating": 4,
+            "photos": [
+              {
+                "id": 862,
+                "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/860/Turbo.png",
+                "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/860/conversions/Turbo-thumbnail.jpg"
+              }
+            ],
+            "deleted_at": null,
+            "created_at": "2022-05-11T05:29:47.000000Z",
+            "updated_at": "2022-05-11T05:29:47.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 26,
+            "order_id": 361,
+            "user_id": 3,
+            "shop_id": 4,
+            "product_id": 50,
+            "variation_option_id": null,
+            "comment": "ok",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-18T14:16:37.000000Z",
+            "updated_at": "2023-03-18T14:16:37.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          }
+        ],
+        "in_wishlist": true,
+        "total_downloads": 10,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "shop": {
+          "id": 4,
+          "owner_id": 1,
+          "name": "Bitronic",
+          "slug": "bitronic",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "cover_image": {
+            "id": 423,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/423/Cover-4-thumbnail.jpg",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/423/conversions/Cover-4-thumbnail-thumbnail.jpg"
+          },
+          "logo": {
+            "id": 428,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/428/Group-14393.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/428/conversions/Group-14393-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+            "zip": "02215",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "country": "USA",
+            "street_address": "1981 Metz Lane"
+          },
+          "settings": {
+            "contact": "0799302967",
+            "socials": [
+              {
+                "url": "https://www.instagram.com/redqinc/",
+                "icon": "InstagramIcon"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw",
+                "icon": "YouTubeIcon"
+              },
+              {
+                "url": "https://www.facebook.com/redqinc/",
+                "icon": "FacebookIcon"
+              }
+            ],
+            "website": null,
+            "location": []
+          },
+          "created_at": "2022-01-26T08:55:45.000000Z",
+          "updated_at": "2022-02-15T06:08:31.000000Z"
+        },
+        "digital_file": {
+          "id": 50,
+          "attachment_id": 501,
+          "file_name": "",
+          "fileable_type": "Marvel\\Database\\Models\\Product",
+          "fileable_id": 50,
+          "created_at": "2022-01-27T17:38:43.000000Z",
+          "updated_at": "2022-03-05T13:09:47.000000Z"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "purchase_key": "aw79ztLHMmqkEl0n",
+    "digital_file_id": 40,
+    "tracking_number": "20230314192376",
+    "customer_id": 3,
+    "created_at": "2023-03-14T08:54:33.000000Z",
+    "updated_at": "2023-03-14T08:54:33.000000Z",
+    "order": {
+      "id": 63,
+      "tracking_number": "20230314192376",
+      "customer_id": 3,
+      "customer_contact": "19365141641631",
+      "customer_name": "Customer",
+      "amount": 30,
+      "sales_tax": 1.5,
+      "paid_total": 31.5,
+      "total": 31.5,
+      "cancelled_amount": "0.00",
+      "language": "en",
+      "coupon_id": null,
+      "parent_id": null,
+      "shop_id": null,
+      "discount": null,
+      "payment_gateway": "STRIPE",
+      "shipping_address": null,
+      "billing_address": null,
+      "logistics_provider": null,
+      "delivery_fee": null,
+      "delivery_time": null,
+      "order_status": "order-completed",
+      "payment_status": "payment-success",
+      "created_at": "2023-03-14T08:54:33.000000Z",
+      "customer": {
+        "id": 3,
+        "name": "Customer",
+        "email": "customer@demo.com",
+        "email_verified_at": null,
+        "created_at": "2022-02-02T11:00:07.000000Z",
+        "updated_at": "2022-02-02T11:00:07.000000Z",
+        "is_active": 1,
+        "shop_id": null
+      },
+      "products": [
+        {
+          "id": 40,
+          "name": "Addingly Modern WordPress Theme",
+          "slug": "addingly-modern-wordpress-theme",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 3,
+          "price": 35,
+          "shop_id": 4,
+          "sale_price": 30,
+          "language": "en",
+          "min_price": 35,
+          "max_price": 35,
+          "sku": "8df4v89df4v8d94bvd894bdb489849",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 544,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/542/image10.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/542/conversions/image10-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 545,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/543/image10.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/543/conversions/image10-thumbnail.jpg"
+            },
+            {
+              "id": 546,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/544/image12.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/544/conversions/image12-thumbnail.jpg"
+            },
+            {
+              "id": 547,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/545/image13.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/545/conversions/image13-thumbnail.jpg"
+            },
+            {
+              "id": 548,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/546/image14.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/546/conversions/image14-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-27T16:53:04.000000Z",
+          "updated_at": "2022-03-05T13:37:03.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 0,
+          "total_reviews": 0,
+          "rating_count": [],
+          "my_review": null,
+          "in_wishlist": false,
+          "total_downloads": 3,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 63,
+            "product_id": 40,
+            "order_quantity": "1",
+            "unit_price": 30,
+            "subtotal": 30,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T08:54:33.000000Z",
+            "updated_at": "2023-03-14T08:54:33.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 40,
+            "attachment_id": 549,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 40,
+            "created_at": "2022-01-27T16:53:04.000000Z",
+            "updated_at": "2022-03-05T13:37:03.000000Z"
+          }
+        }
+      ]
+    },
+    "file": {
+      "id": 40,
+      "attachment_id": 549,
+      "file_name": "",
+      "fileable_type": "Marvel\\Database\\Models\\Product",
+      "fileable_id": 40,
+      "created_at": "2022-01-27T16:53:04.000000Z",
+      "updated_at": "2022-03-05T13:37:03.000000Z",
+      "fileable": {
+        "id": 40,
+        "name": "Addingly Modern WordPress Theme",
+        "slug": "addingly-modern-wordpress-theme",
+        "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+        "type_id": 3,
+        "price": 35,
+        "shop_id": 4,
+        "sale_price": 30,
+        "language": "en",
+        "min_price": 35,
+        "max_price": 35,
+        "sku": "8df4v89df4v8d94bvd894bdb489849",
+        "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+        "quantity": 500,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "simple",
+        "unit": "1",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+          "id": 544,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/542/image10.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/542/conversions/image10-thumbnail.jpg"
+        },
+        "video": null,
+        "gallery": [
+          {
+            "id": 545,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/543/image10.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/543/conversions/image10-thumbnail.jpg"
+          },
+          {
+            "id": 546,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/544/image12.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/544/conversions/image12-thumbnail.jpg"
+          },
+          {
+            "id": 547,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/545/image13.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/545/conversions/image13-thumbnail.jpg"
+          },
+          {
+            "id": 548,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/546/image14.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/546/conversions/image14-thumbnail.jpg"
+          }
+        ],
+        "deleted_at": null,
+        "created_at": "2022-01-27T16:53:04.000000Z",
+        "updated_at": "2022-03-05T13:37:03.000000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 1,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 0,
+        "total_reviews": 0,
+        "rating_count": [],
+        "my_review": null,
+        "in_wishlist": false,
+        "total_downloads": 3,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "shop": {
+          "id": 4,
+          "owner_id": 1,
+          "name": "Bitronic",
+          "slug": "bitronic",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "cover_image": {
+            "id": 423,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/423/Cover-4-thumbnail.jpg",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/423/conversions/Cover-4-thumbnail-thumbnail.jpg"
+          },
+          "logo": {
+            "id": 428,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/428/Group-14393.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/428/conversions/Group-14393-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+            "zip": "02215",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "country": "USA",
+            "street_address": "1981 Metz Lane"
+          },
+          "settings": {
+            "contact": "0799302967",
+            "socials": [
+              {
+                "url": "https://www.instagram.com/redqinc/",
+                "icon": "InstagramIcon"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw",
+                "icon": "YouTubeIcon"
+              },
+              {
+                "url": "https://www.facebook.com/redqinc/",
+                "icon": "FacebookIcon"
+              }
+            ],
+            "website": null,
+            "location": []
+          },
+          "created_at": "2022-01-26T08:55:45.000000Z",
+          "updated_at": "2022-02-15T06:08:31.000000Z"
+        },
+        "digital_file": {
+          "id": 40,
+          "attachment_id": 549,
+          "file_name": "",
+          "fileable_type": "Marvel\\Database\\Models\\Product",
+          "fileable_id": 40,
+          "created_at": "2022-01-27T16:53:04.000000Z",
+          "updated_at": "2022-03-05T13:37:03.000000Z"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "purchase_key": "hGrRtiGEPnlVD8Ih",
+    "digital_file_id": 49,
+    "tracking_number": "20230314925416",
+    "customer_id": 3,
+    "created_at": "2023-03-14T09:03:00.000000Z",
+    "updated_at": "2023-03-14T09:03:00.000000Z",
+    "order": {
+      "id": 65,
+      "tracking_number": "20230314925416",
+      "customer_id": 3,
+      "customer_contact": "19365141641631",
+      "customer_name": "Customer",
+      "amount": 39,
+      "sales_tax": 1.95,
+      "paid_total": 40.95,
+      "total": 40.95,
+      "cancelled_amount": "0.00",
+      "language": "en",
+      "coupon_id": null,
+      "parent_id": null,
+      "shop_id": null,
+      "discount": null,
+      "payment_gateway": "STRIPE",
+      "shipping_address": null,
+      "billing_address": null,
+      "logistics_provider": null,
+      "delivery_fee": null,
+      "delivery_time": null,
+      "order_status": "order-completed",
+      "payment_status": "payment-success",
+      "created_at": "2023-03-14T09:03:00.000000Z",
+      "customer": {
+        "id": 3,
+        "name": "Customer",
+        "email": "customer@demo.com",
+        "email_verified_at": null,
+        "created_at": "2022-02-02T11:00:07.000000Z",
+        "updated_at": "2022-02-02T11:00:07.000000Z",
+        "is_active": 1,
+        "shop_id": null
+      },
+      "products": [
+        {
+          "id": 49,
+          "name": "ChawkBazar Laravel Flutter Mobile App",
+          "slug": "chawkbazar-laravel-flutter-mobile-app",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 3,
+          "price": 39,
+          "shop_id": 7,
+          "sale_price": null,
+          "language": "en",
+          "min_price": 39,
+          "max_price": 39,
+          "sku": "984a8sd4f89sd4f9s48s984v81a1v8df1v",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 394,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/Rectangle-773.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/conversions/Rectangle-773-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 395,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/Rectangle-773.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/conversions/Rectangle-773-thumbnail.jpg"
+            },
+            {
+              "id": 396,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/Rectangle-778.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/conversions/Rectangle-778-thumbnail.jpg"
+            },
+            {
+              "id": 397,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/Rectangle-782.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/conversions/Rectangle-782-thumbnail.jpg"
+            },
+            {
+              "id": 398,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/Rectangle-785.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/conversions/Rectangle-785-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-27T17:37:27.000000Z",
+          "updated_at": "2022-02-03T13:22:37.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 4.71,
+          "total_reviews": 7,
+          "rating_count": [
+            {
+              "rating": 5,
+              "total": 6,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "rating": 3,
+              "total": 1,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "my_review": [
+            {
+              "id": 1,
+              "order_id": 1,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Good clear code with excellent design.",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2022-05-11T05:27:53.000000Z",
+              "updated_at": "2022-05-11T05:27:53.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 23,
+              "order_id": 200,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "payment succeded",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-16T14:42:57.000000Z",
+              "updated_at": "2023-03-16T14:42:57.000000Z",
+              "positive_feedbacks_count": 1,
+              "negative_feedbacks_count": 0,
+              "my_feedback": {
+                "id": 13,
+                "user_id": 3,
+                "model_type": "Marvel\\Database\\Models\\Review",
+                "model_id": 23,
+                "positive": 1,
+                "negative": null,
+                "created_at": "2023-03-24T16:14:52.000000Z",
+                "updated_at": "2023-04-03T14:08:21.000000Z"
+              },
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 25,
+              "order_id": 299,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Good",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-17T13:38:53.000000Z",
+              "updated_at": "2023-03-17T13:38:53.000000Z",
+              "positive_feedbacks_count": 1,
+              "negative_feedbacks_count": 0,
+              "my_feedback": {
+                "id": 12,
+                "user_id": 3,
+                "model_type": "Marvel\\Database\\Models\\Review",
+                "model_id": 25,
+                "positive": 1,
+                "negative": null,
+                "created_at": "2023-03-24T16:14:48.000000Z",
+                "updated_at": "2023-04-03T14:08:20.000000Z"
+              },
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 32,
+              "order_id": 755,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "good",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-27T20:23:45.000000Z",
+              "updated_at": "2023-03-27T20:23:45.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 33,
+              "order_id": 763,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Great",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-28T02:43:44.000000Z",
+              "updated_at": "2023-03-28T02:43:44.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "in_wishlist": false,
+          "total_downloads": 152,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 65,
+            "product_id": 49,
+            "order_quantity": "1",
+            "unit_price": 39,
+            "subtotal": 39,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T09:03:00.000000Z",
+            "updated_at": "2023-03-14T09:03:00.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 49,
+            "attachment_id": 399,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 49,
+            "created_at": "2022-01-27T17:37:27.000000Z",
+            "updated_at": "2022-02-03T13:22:37.000000Z"
+          }
+        }
+      ]
+    },
+    "file": {
+      "id": 49,
+      "attachment_id": 399,
+      "file_name": "",
+      "fileable_type": "Marvel\\Database\\Models\\Product",
+      "fileable_id": 49,
+      "created_at": "2022-01-27T17:37:27.000000Z",
+      "updated_at": "2022-02-03T13:22:37.000000Z",
+      "fileable": {
+        "id": 49,
+        "name": "ChawkBazar Laravel Flutter Mobile App",
+        "slug": "chawkbazar-laravel-flutter-mobile-app",
+        "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+        "type_id": 3,
+        "price": 39,
+        "shop_id": 7,
+        "sale_price": null,
+        "language": "en",
+        "min_price": 39,
+        "max_price": 39,
+        "sku": "984a8sd4f89sd4f9s48s984v81a1v8df1v",
+        "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+        "quantity": 500,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "simple",
+        "unit": "1",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+          "id": 394,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/Rectangle-773.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/conversions/Rectangle-773-thumbnail.jpg"
+        },
+        "video": null,
+        "gallery": [
+          {
+            "id": 395,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/Rectangle-773.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/conversions/Rectangle-773-thumbnail.jpg"
+          },
+          {
+            "id": 396,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/Rectangle-778.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/conversions/Rectangle-778-thumbnail.jpg"
+          },
+          {
+            "id": 397,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/Rectangle-782.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/conversions/Rectangle-782-thumbnail.jpg"
+          },
+          {
+            "id": 398,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/Rectangle-785.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/conversions/Rectangle-785-thumbnail.jpg"
+          }
+        ],
+        "deleted_at": null,
+        "created_at": "2022-01-27T17:37:27.000000Z",
+        "updated_at": "2022-02-03T13:22:37.000000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 1,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.71,
+        "total_reviews": 7,
+        "rating_count": [
+          {
+            "rating": 5,
+            "total": 6,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "rating": 3,
+            "total": 1,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          }
+        ],
+        "my_review": [
+          {
+            "id": 1,
+            "order_id": 1,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "Good clear code with excellent design.",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2022-05-11T05:27:53.000000Z",
+            "updated_at": "2022-05-11T05:27:53.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 23,
+            "order_id": 200,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "payment succeded",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-16T14:42:57.000000Z",
+            "updated_at": "2023-03-16T14:42:57.000000Z",
+            "positive_feedbacks_count": 1,
+            "negative_feedbacks_count": 0,
+            "my_feedback": {
+              "id": 13,
+              "user_id": 3,
+              "model_type": "Marvel\\Database\\Models\\Review",
+              "model_id": 23,
+              "positive": 1,
+              "negative": null,
+              "created_at": "2023-03-24T16:14:52.000000Z",
+              "updated_at": "2023-04-03T14:08:21.000000Z"
+            },
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 25,
+            "order_id": 299,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "Good",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-17T13:38:53.000000Z",
+            "updated_at": "2023-03-17T13:38:53.000000Z",
+            "positive_feedbacks_count": 1,
+            "negative_feedbacks_count": 0,
+            "my_feedback": {
+              "id": 12,
+              "user_id": 3,
+              "model_type": "Marvel\\Database\\Models\\Review",
+              "model_id": 25,
+              "positive": 1,
+              "negative": null,
+              "created_at": "2023-03-24T16:14:48.000000Z",
+              "updated_at": "2023-04-03T14:08:20.000000Z"
+            },
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 32,
+            "order_id": 755,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "good",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-27T20:23:45.000000Z",
+            "updated_at": "2023-03-27T20:23:45.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 33,
+            "order_id": 763,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "Great",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-28T02:43:44.000000Z",
+            "updated_at": "2023-03-28T02:43:44.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          }
+        ],
+        "in_wishlist": false,
+        "total_downloads": 152,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "shop": {
+          "id": 7,
+          "owner_id": 1,
+          "name": "Omnico Team",
+          "slug": "omnico-team",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "cover_image": {
+            "id": 193,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/193/Cover-2.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/193/conversions/Cover-2-thumbnail.jpg"
+          },
+          "logo": {
+            "id": 194,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/194/Group-14398.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/194/conversions/Group-14398-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+            "zip": "36104",
+            "city": "Montgomery",
+            "state": "Alabama",
+            "country": "USA",
+            "street_address": "2834 Fleming Street"
+          },
+          "settings": {
+            "contact": "0799302967",
+            "socials": [
+              {
+                "url": "https://www.facebook.com/redqinc/",
+                "icon": "FacebookIcon"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw",
+                "icon": "YouTubeIcon"
+              },
+              {
+                "url": "https://www.instagram.com/redqinc/",
+                "icon": "InstagramIcon"
+              }
+            ],
+            "website": "https://redq.io/",
+            "location": []
+          },
+          "created_at": "2022-01-26T15:53:03.000000Z",
+          "updated_at": "2022-02-20T13:41:15.000000Z"
+        },
+        "digital_file": {
+          "id": 49,
+          "attachment_id": 399,
+          "file_name": "",
+          "fileable_type": "Marvel\\Database\\Models\\Product",
+          "fileable_id": 49,
+          "created_at": "2022-01-27T17:37:27.000000Z",
+          "updated_at": "2022-02-03T13:22:37.000000Z"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "purchase_key": "y9BnlUpPeXYaPEpN",
+    "digital_file_id": 49,
+    "tracking_number": "20230314989025",
+    "customer_id": 3,
+    "created_at": "2023-03-14T09:11:07.000000Z",
+    "updated_at": "2023-03-14T09:11:07.000000Z",
+    "order": {
+      "id": 67,
+      "tracking_number": "20230314989025",
+      "customer_id": 3,
+      "customer_contact": "19365141641631",
+      "customer_name": "Customer",
+      "amount": 39,
+      "sales_tax": 1.95,
+      "paid_total": 40.95,
+      "total": 40.95,
+      "cancelled_amount": "0.00",
+      "language": "en",
+      "coupon_id": null,
+      "parent_id": null,
+      "shop_id": null,
+      "discount": null,
+      "payment_gateway": "STRIPE",
+      "shipping_address": null,
+      "billing_address": null,
+      "logistics_provider": null,
+      "delivery_fee": null,
+      "delivery_time": null,
+      "order_status": "order-completed",
+      "payment_status": "payment-success",
+      "created_at": "2023-03-14T09:11:07.000000Z",
+      "customer": {
+        "id": 3,
+        "name": "Customer",
+        "email": "customer@demo.com",
+        "email_verified_at": null,
+        "created_at": "2022-02-02T11:00:07.000000Z",
+        "updated_at": "2022-02-02T11:00:07.000000Z",
+        "is_active": 1,
+        "shop_id": null
+      },
+      "products": [
+        {
+          "id": 49,
+          "name": "ChawkBazar Laravel Flutter Mobile App",
+          "slug": "chawkbazar-laravel-flutter-mobile-app",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 3,
+          "price": 39,
+          "shop_id": 7,
+          "sale_price": null,
+          "language": "en",
+          "min_price": 39,
+          "max_price": 39,
+          "sku": "984a8sd4f89sd4f9s48s984v81a1v8df1v",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 394,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/Rectangle-773.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/conversions/Rectangle-773-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 395,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/Rectangle-773.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/conversions/Rectangle-773-thumbnail.jpg"
+            },
+            {
+              "id": 396,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/Rectangle-778.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/conversions/Rectangle-778-thumbnail.jpg"
+            },
+            {
+              "id": 397,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/Rectangle-782.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/conversions/Rectangle-782-thumbnail.jpg"
+            },
+            {
+              "id": 398,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/Rectangle-785.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/conversions/Rectangle-785-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-27T17:37:27.000000Z",
+          "updated_at": "2022-02-03T13:22:37.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 4.71,
+          "total_reviews": 7,
+          "rating_count": [
+            {
+              "rating": 5,
+              "total": 6,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "rating": 3,
+              "total": 1,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "my_review": [
+            {
+              "id": 1,
+              "order_id": 1,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Good clear code with excellent design.",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2022-05-11T05:27:53.000000Z",
+              "updated_at": "2022-05-11T05:27:53.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 23,
+              "order_id": 200,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "payment succeded",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-16T14:42:57.000000Z",
+              "updated_at": "2023-03-16T14:42:57.000000Z",
+              "positive_feedbacks_count": 1,
+              "negative_feedbacks_count": 0,
+              "my_feedback": {
+                "id": 13,
+                "user_id": 3,
+                "model_type": "Marvel\\Database\\Models\\Review",
+                "model_id": 23,
+                "positive": 1,
+                "negative": null,
+                "created_at": "2023-03-24T16:14:52.000000Z",
+                "updated_at": "2023-04-03T14:08:21.000000Z"
+              },
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 25,
+              "order_id": 299,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Good",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-17T13:38:53.000000Z",
+              "updated_at": "2023-03-17T13:38:53.000000Z",
+              "positive_feedbacks_count": 1,
+              "negative_feedbacks_count": 0,
+              "my_feedback": {
+                "id": 12,
+                "user_id": 3,
+                "model_type": "Marvel\\Database\\Models\\Review",
+                "model_id": 25,
+                "positive": 1,
+                "negative": null,
+                "created_at": "2023-03-24T16:14:48.000000Z",
+                "updated_at": "2023-04-03T14:08:20.000000Z"
+              },
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 32,
+              "order_id": 755,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "good",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-27T20:23:45.000000Z",
+              "updated_at": "2023-03-27T20:23:45.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "id": 33,
+              "order_id": 763,
+              "user_id": 3,
+              "shop_id": 7,
+              "product_id": 49,
+              "variation_option_id": null,
+              "comment": "Great",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2023-03-28T02:43:44.000000Z",
+              "updated_at": "2023-03-28T02:43:44.000000Z",
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "in_wishlist": false,
+          "total_downloads": 152,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 67,
+            "product_id": 49,
+            "order_quantity": "1",
+            "unit_price": 39,
+            "subtotal": 39,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T09:11:07.000000Z",
+            "updated_at": "2023-03-14T09:11:07.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 49,
+            "attachment_id": 399,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 49,
+            "created_at": "2022-01-27T17:37:27.000000Z",
+            "updated_at": "2022-02-03T13:22:37.000000Z"
+          }
+        }
+      ]
+    },
+    "file": {
+      "id": 49,
+      "attachment_id": 399,
+      "file_name": "",
+      "fileable_type": "Marvel\\Database\\Models\\Product",
+      "fileable_id": 49,
+      "created_at": "2022-01-27T17:37:27.000000Z",
+      "updated_at": "2022-02-03T13:22:37.000000Z",
+      "fileable": {
+        "id": 49,
+        "name": "ChawkBazar Laravel Flutter Mobile App",
+        "slug": "chawkbazar-laravel-flutter-mobile-app",
+        "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+        "type_id": 3,
+        "price": 39,
+        "shop_id": 7,
+        "sale_price": null,
+        "language": "en",
+        "min_price": 39,
+        "max_price": 39,
+        "sku": "984a8sd4f89sd4f9s48s984v81a1v8df1v",
+        "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+        "quantity": 500,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "simple",
+        "unit": "1",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+          "id": 394,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/Rectangle-773.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/394/conversions/Rectangle-773-thumbnail.jpg"
+        },
+        "video": null,
+        "gallery": [
+          {
+            "id": 395,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/Rectangle-773.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/395/conversions/Rectangle-773-thumbnail.jpg"
+          },
+          {
+            "id": 396,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/Rectangle-778.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/396/conversions/Rectangle-778-thumbnail.jpg"
+          },
+          {
+            "id": 397,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/Rectangle-782.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/397/conversions/Rectangle-782-thumbnail.jpg"
+          },
+          {
+            "id": 398,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/Rectangle-785.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/398/conversions/Rectangle-785-thumbnail.jpg"
+          }
+        ],
+        "deleted_at": null,
+        "created_at": "2022-01-27T17:37:27.000000Z",
+        "updated_at": "2022-02-03T13:22:37.000000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 1,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.71,
+        "total_reviews": 7,
+        "rating_count": [
+          {
+            "rating": 5,
+            "total": 6,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "rating": 3,
+            "total": 1,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          }
+        ],
+        "my_review": [
+          {
+            "id": 1,
+            "order_id": 1,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "Good clear code with excellent design.",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2022-05-11T05:27:53.000000Z",
+            "updated_at": "2022-05-11T05:27:53.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 23,
+            "order_id": 200,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "payment succeded",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-16T14:42:57.000000Z",
+            "updated_at": "2023-03-16T14:42:57.000000Z",
+            "positive_feedbacks_count": 1,
+            "negative_feedbacks_count": 0,
+            "my_feedback": {
+              "id": 13,
+              "user_id": 3,
+              "model_type": "Marvel\\Database\\Models\\Review",
+              "model_id": 23,
+              "positive": 1,
+              "negative": null,
+              "created_at": "2023-03-24T16:14:52.000000Z",
+              "updated_at": "2023-04-03T14:08:21.000000Z"
+            },
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 25,
+            "order_id": 299,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "Good",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-17T13:38:53.000000Z",
+            "updated_at": "2023-03-17T13:38:53.000000Z",
+            "positive_feedbacks_count": 1,
+            "negative_feedbacks_count": 0,
+            "my_feedback": {
+              "id": 12,
+              "user_id": 3,
+              "model_type": "Marvel\\Database\\Models\\Review",
+              "model_id": 25,
+              "positive": 1,
+              "negative": null,
+              "created_at": "2023-03-24T16:14:48.000000Z",
+              "updated_at": "2023-04-03T14:08:20.000000Z"
+            },
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 32,
+            "order_id": 755,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "good",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-27T20:23:45.000000Z",
+            "updated_at": "2023-03-27T20:23:45.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "id": 33,
+            "order_id": 763,
+            "user_id": 3,
+            "shop_id": 7,
+            "product_id": 49,
+            "variation_option_id": null,
+            "comment": "Great",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2023-03-28T02:43:44.000000Z",
+            "updated_at": "2023-03-28T02:43:44.000000Z",
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          }
+        ],
+        "in_wishlist": false,
+        "total_downloads": 152,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "shop": {
+          "id": 7,
+          "owner_id": 1,
+          "name": "Omnico Team",
+          "slug": "omnico-team",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "cover_image": {
+            "id": 193,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/193/Cover-2.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/193/conversions/Cover-2-thumbnail.jpg"
+          },
+          "logo": {
+            "id": 194,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/194/Group-14398.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/194/conversions/Group-14398-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+            "zip": "36104",
+            "city": "Montgomery",
+            "state": "Alabama",
+            "country": "USA",
+            "street_address": "2834 Fleming Street"
+          },
+          "settings": {
+            "contact": "0799302967",
+            "socials": [
+              {
+                "url": "https://www.facebook.com/redqinc/",
+                "icon": "FacebookIcon"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw",
+                "icon": "YouTubeIcon"
+              },
+              {
+                "url": "https://www.instagram.com/redqinc/",
+                "icon": "InstagramIcon"
+              }
+            ],
+            "website": "https://redq.io/",
+            "location": []
+          },
+          "created_at": "2022-01-26T15:53:03.000000Z",
+          "updated_at": "2022-02-20T13:41:15.000000Z"
+        },
+        "digital_file": {
+          "id": 49,
+          "attachment_id": 399,
+          "file_name": "",
+          "fileable_type": "Marvel\\Database\\Models\\Product",
+          "fileable_id": 49,
+          "created_at": "2022-01-27T17:37:27.000000Z",
+          "updated_at": "2022-02-03T13:22:37.000000Z"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "purchase_key": "CMQ5Hi8CBEuwjCJX",
+    "digital_file_id": 45,
+    "tracking_number": "20230314101727",
+    "customer_id": 3,
+    "created_at": "2023-03-14T09:35:39.000000Z",
+    "updated_at": "2023-03-14T09:35:39.000000Z",
+    "order": {
+      "id": 69,
+      "tracking_number": "20230314101727",
+      "customer_id": 3,
+      "customer_contact": "19365141641631",
+      "customer_name": "Customer",
+      "amount": 55,
+      "sales_tax": 2.75,
+      "paid_total": 57.75,
+      "total": 57.75,
+      "cancelled_amount": "0.00",
+      "language": "en",
+      "coupon_id": null,
+      "parent_id": null,
+      "shop_id": null,
+      "discount": null,
+      "payment_gateway": "STRIPE",
+      "shipping_address": null,
+      "billing_address": null,
+      "logistics_provider": null,
+      "delivery_fee": null,
+      "delivery_time": null,
+      "order_status": "order-completed",
+      "payment_status": "payment-success",
+      "created_at": "2023-03-14T09:35:39.000000Z",
+      "customer": {
+        "id": 3,
+        "name": "Customer",
+        "email": "customer@demo.com",
+        "email_verified_at": null,
+        "created_at": "2022-02-02T11:00:07.000000Z",
+        "updated_at": "2022-02-02T11:00:07.000000Z",
+        "is_active": 1,
+        "shop_id": null
+      },
+      "products": [
+        {
+          "id": 45,
+          "name": "StoryHub WordPress Blog Theme",
+          "slug": "storyhub-wordpress-blog-theme-2",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 1,
+          "price": 59,
+          "shop_id": 5,
+          "sale_price": 55,
+          "language": "en",
+          "min_price": 59,
+          "max_price": 59,
+          "sku": "8978d7f9e7f/we*f7/7f/ew7*f/w7we*/fwfweffwe",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 520,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/518/image05.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/518/conversions/image05-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 521,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/519/image05.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/519/conversions/image05-thumbnail.jpg"
+            },
+            {
+              "id": 522,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/520/image27.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/520/conversions/image27-thumbnail.jpg"
+            },
+            {
+              "id": 523,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/521/image36.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/521/conversions/image36-thumbnail.jpg"
+            },
+            {
+              "id": 524,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/522/image43.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/522/conversions/image43-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-27T17:31:12.000000Z",
+          "updated_at": "2022-03-05T13:33:04.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 4.33,
+          "total_reviews": 3,
+          "rating_count": [
+            {
+              "rating": 5,
+              "total": 1,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "rating": 4,
+              "total": 2,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "my_review": [
+            {
+              "id": 5,
+              "order_id": 1,
+              "user_id": 3,
+              "shop_id": 5,
+              "product_id": 45,
+              "variation_option_id": null,
+              "comment": "I have tried different themes but Borobaz is a beast. Right features, cool design, and widely customizable. The support team provides a very good service replying in a couple of hours",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2022-05-11T05:30:15.000000Z",
+              "updated_at": "2022-05-11T05:30:15.000000Z",
+              "positive_feedbacks_count": 1,
+              "negative_feedbacks_count": 0,
+              "my_feedback": {
+                "id": 22,
+                "user_id": 3,
+                "model_type": "Marvel\\Database\\Models\\Review",
+                "model_id": 5,
+                "positive": 1,
+                "negative": null,
+                "created_at": "2023-03-28T22:12:07.000000Z",
+                "updated_at": "2023-03-28T22:12:07.000000Z"
+              },
+              "abusive_reports_count": 0
+            }
+          ],
+          "in_wishlist": false,
+          "total_downloads": 1,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 69,
+            "product_id": 45,
+            "order_quantity": "1",
+            "unit_price": 55,
+            "subtotal": 55,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T09:35:39.000000Z",
+            "updated_at": "2023-03-14T09:35:39.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 45,
+            "attachment_id": 525,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 45,
+            "created_at": "2022-01-27T17:31:12.000000Z",
+            "updated_at": "2022-03-05T13:33:04.000000Z"
+          }
+        }
+      ]
+    },
+    "file": {
+      "id": 45,
+      "attachment_id": 525,
+      "file_name": "",
+      "fileable_type": "Marvel\\Database\\Models\\Product",
+      "fileable_id": 45,
+      "created_at": "2022-01-27T17:31:12.000000Z",
+      "updated_at": "2022-03-05T13:33:04.000000Z",
+      "fileable": {
+        "id": 45,
+        "name": "StoryHub WordPress Blog Theme",
+        "slug": "storyhub-wordpress-blog-theme-2",
+        "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+        "type_id": 1,
+        "price": 59,
+        "shop_id": 5,
+        "sale_price": 55,
+        "language": "en",
+        "min_price": 59,
+        "max_price": 59,
+        "sku": "8978d7f9e7f/we*f7/7f/ew7*f/w7we*/fwfweffwe",
+        "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+        "quantity": 500,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "simple",
+        "unit": "1",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+          "id": 520,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/518/image05.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/518/conversions/image05-thumbnail.jpg"
+        },
+        "video": null,
+        "gallery": [
+          {
+            "id": 521,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/519/image05.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/519/conversions/image05-thumbnail.jpg"
+          },
+          {
+            "id": 522,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/520/image27.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/520/conversions/image27-thumbnail.jpg"
+          },
+          {
+            "id": 523,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/521/image36.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/521/conversions/image36-thumbnail.jpg"
+          },
+          {
+            "id": 524,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/522/image43.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/522/conversions/image43-thumbnail.jpg"
+          }
+        ],
+        "deleted_at": null,
+        "created_at": "2022-01-27T17:31:12.000000Z",
+        "updated_at": "2022-03-05T13:33:04.000000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 1,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.33,
+        "total_reviews": 3,
+        "rating_count": [
+          {
+            "rating": 5,
+            "total": 1,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "rating": 4,
+            "total": 2,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          }
+        ],
+        "my_review": [
+          {
+            "id": 5,
+            "order_id": 1,
+            "user_id": 3,
+            "shop_id": 5,
+            "product_id": 45,
+            "variation_option_id": null,
+            "comment": "I have tried different themes but Borobaz is a beast. Right features, cool design, and widely customizable. The support team provides a very good service replying in a couple of hours",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2022-05-11T05:30:15.000000Z",
+            "updated_at": "2022-05-11T05:30:15.000000Z",
+            "positive_feedbacks_count": 1,
+            "negative_feedbacks_count": 0,
+            "my_feedback": {
+              "id": 22,
+              "user_id": 3,
+              "model_type": "Marvel\\Database\\Models\\Review",
+              "model_id": 5,
+              "positive": 1,
+              "negative": null,
+              "created_at": "2023-03-28T22:12:07.000000Z",
+              "updated_at": "2023-03-28T22:12:07.000000Z"
+            },
+            "abusive_reports_count": 0
+          }
+        ],
+        "in_wishlist": false,
+        "total_downloads": 1,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "shop": {
+          "id": 5,
+          "owner_id": 1,
+          "name": "Omatron",
+          "slug": "omatron",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "cover_image": {
+            "id": 108,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/108/Cover-5.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/108/conversions/Cover-5-thumbnail.jpg"
+          },
+          "logo": {
+            "id": 109,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/109/Group-14395.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/109/conversions/Group-14395-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+            "zip": "07071",
+            "city": "Lyndhurst",
+            "state": "New Jersey",
+            "country": "USA",
+            "street_address": "4329 Deer Ridge Drive"
+          },
+          "settings": {
+            "contact": "0799302967",
+            "socials": [
+              {
+                "url": "https://www.instagram.com/redqinc/",
+                "icon": "InstagramIcon"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw",
+                "icon": "YouTubeIcon"
+              },
+              {
+                "url": "https://www.facebook.com/redqinc/",
+                "icon": "FacebookIcon"
+              }
+            ],
+            "website": "https://redq.io/",
+            "location": []
+          },
+          "created_at": "2022-01-26T09:00:06.000000Z",
+          "updated_at": "2022-02-15T06:10:05.000000Z"
+        },
+        "digital_file": {
+          "id": 45,
+          "attachment_id": 525,
+          "file_name": "",
+          "fileable_type": "Marvel\\Database\\Models\\Product",
+          "fileable_id": 45,
+          "created_at": "2022-01-27T17:31:12.000000Z",
+          "updated_at": "2022-03-05T13:33:04.000000Z"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "purchase_key": "bl2D2xsUFnRx3IJI",
+    "digital_file_id": 38,
+    "tracking_number": "20230314914454",
+    "customer_id": 3,
+    "created_at": "2023-03-14T09:37:02.000000Z",
+    "updated_at": "2023-03-14T09:37:02.000000Z",
+    "order": {
+      "id": 71,
+      "tracking_number": "20230314914454",
+      "customer_id": 3,
+      "customer_contact": "19365141641631",
+      "customer_name": "Customer",
+      "amount": 49,
+      "sales_tax": 2.45,
+      "paid_total": 51.45,
+      "total": 51.45,
+      "cancelled_amount": "0.00",
+      "language": "en",
+      "coupon_id": null,
+      "parent_id": null,
+      "shop_id": null,
+      "discount": null,
+      "payment_gateway": "STRIPE",
+      "shipping_address": null,
+      "billing_address": null,
+      "logistics_provider": null,
+      "delivery_fee": null,
+      "delivery_time": null,
+      "order_status": "order-completed",
+      "payment_status": "payment-success",
+      "created_at": "2023-03-14T09:37:02.000000Z",
+      "customer": {
+        "id": 3,
+        "name": "Customer",
+        "email": "customer@demo.com",
+        "email_verified_at": null,
+        "created_at": "2022-02-02T11:00:07.000000Z",
+        "updated_at": "2022-02-02T11:00:07.000000Z",
+        "is_active": 1,
+        "shop_id": null
+      },
+      "products": [
+        {
+          "id": 38,
+          "name": "Superprops 2.0 Shopify WordPress Theme",
+          "slug": "superprops-2-0-shopify-wordpress-theme",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 1,
+          "price": 55,
+          "shop_id": 6,
+          "sale_price": 49,
+          "language": "en",
+          "min_price": 55,
+          "max_price": 55,
+          "sku": "5ds4fa8s4gsdag49gfd5g16",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 557,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/555/image23.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/555/conversions/image23-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 558,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/556/image18.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/556/conversions/image18-thumbnail.jpg"
+            },
+            {
+              "id": 559,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/557/image22.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/557/conversions/image22-thumbnail.jpg"
+            },
+            {
+              "id": 560,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/558/image23.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/558/conversions/image23-thumbnail.jpg"
+            },
+            {
+              "id": 561,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/559/image41.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/559/conversions/image41-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-27T16:48:28.000000Z",
+          "updated_at": "2022-03-05T13:41:16.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 0,
+          "total_reviews": 0,
+          "rating_count": [],
+          "my_review": null,
+          "in_wishlist": false,
+          "total_downloads": 6,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 71,
+            "product_id": 38,
+            "order_quantity": "1",
+            "unit_price": 49,
+            "subtotal": 49,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T09:37:02.000000Z",
+            "updated_at": "2023-03-14T09:37:02.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 38,
+            "attachment_id": 562,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 38,
+            "created_at": "2022-01-27T16:48:28.000000Z",
+            "updated_at": "2022-03-05T13:41:16.000000Z"
+          }
+        }
+      ]
+    },
+    "file": {
+      "id": 38,
+      "attachment_id": 562,
+      "file_name": "",
+      "fileable_type": "Marvel\\Database\\Models\\Product",
+      "fileable_id": 38,
+      "created_at": "2022-01-27T16:48:28.000000Z",
+      "updated_at": "2022-03-05T13:41:16.000000Z",
+      "fileable": {
+        "id": 38,
+        "name": "Superprops 2.0 Shopify WordPress Theme",
+        "slug": "superprops-2-0-shopify-wordpress-theme",
+        "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+        "type_id": 1,
+        "price": 55,
+        "shop_id": 6,
+        "sale_price": 49,
+        "language": "en",
+        "min_price": 55,
+        "max_price": 55,
+        "sku": "5ds4fa8s4gsdag49gfd5g16",
+        "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+        "quantity": 500,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "simple",
+        "unit": "1",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+          "id": 557,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/555/image23.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/555/conversions/image23-thumbnail.jpg"
+        },
+        "video": null,
+        "gallery": [
+          {
+            "id": 558,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/556/image18.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/556/conversions/image18-thumbnail.jpg"
+          },
+          {
+            "id": 559,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/557/image22.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/557/conversions/image22-thumbnail.jpg"
+          },
+          {
+            "id": 560,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/558/image23.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/558/conversions/image23-thumbnail.jpg"
+          },
+          {
+            "id": 561,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/559/image41.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/559/conversions/image41-thumbnail.jpg"
+          }
+        ],
+        "deleted_at": null,
+        "created_at": "2022-01-27T16:48:28.000000Z",
+        "updated_at": "2022-03-05T13:41:16.000000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 1,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 0,
+        "total_reviews": 0,
+        "rating_count": [],
+        "my_review": null,
+        "in_wishlist": false,
+        "total_downloads": 6,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "shop": {
+          "id": 6,
+          "owner_id": 1,
+          "name": "Imagineco",
+          "slug": "imagineco",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "cover_image": {
+            "id": 192,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/192/Cover-1.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/192/conversions/Cover-1-thumbnail.jpg"
+          },
+          "logo": {
+            "id": 191,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/191/Group-14394.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/191/conversions/Group-14394-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+            "zip": "07071",
+            "city": "Lyndhurst",
+            "state": "California",
+            "country": "USA",
+            "street_address": "4329 Deer Ridge Drive"
+          },
+          "settings": {
+            "contact": "0799302967",
+            "socials": [
+              {
+                "url": "https://www.facebook.com/redqinc/",
+                "icon": "FacebookIcon"
+              },
+              {
+                "url": "https://www.instagram.com/redqinc/",
+                "icon": "InstagramIcon"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw",
+                "icon": "YouTubeIcon"
+              }
+            ],
+            "website": "https://redq.io/",
+            "location": []
+          },
+          "created_at": "2022-01-26T15:51:40.000000Z",
+          "updated_at": "2022-02-15T06:11:23.000000Z"
+        },
+        "digital_file": {
+          "id": 38,
+          "attachment_id": 562,
+          "file_name": "",
+          "fileable_type": "Marvel\\Database\\Models\\Product",
+          "fileable_id": 38,
+          "created_at": "2022-01-27T16:48:28.000000Z",
+          "updated_at": "2022-03-05T13:41:16.000000Z"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "purchase_key": "z0Lq9O992j8KXmG0",
+    "digital_file_id": 45,
+    "tracking_number": "20230314644896",
+    "customer_id": 3,
+    "created_at": "2023-03-14T10:06:48.000000Z",
+    "updated_at": "2023-03-14T10:06:48.000000Z",
+    "order": {
+      "id": 73,
+      "tracking_number": "20230314644896",
+      "customer_id": 3,
+      "customer_contact": "19365141641631",
+      "customer_name": "Customer",
+      "amount": 55,
+      "sales_tax": 2.75,
+      "paid_total": 57.75,
+      "total": 57.75,
+      "cancelled_amount": "0.00",
+      "language": "en",
+      "coupon_id": null,
+      "parent_id": null,
+      "shop_id": null,
+      "discount": null,
+      "payment_gateway": "STRIPE",
+      "shipping_address": null,
+      "billing_address": null,
+      "logistics_provider": null,
+      "delivery_fee": null,
+      "delivery_time": null,
+      "order_status": "order-completed",
+      "payment_status": "payment-success",
+      "created_at": "2023-03-14T10:06:48.000000Z",
+      "customer": {
+        "id": 3,
+        "name": "Customer",
+        "email": "customer@demo.com",
+        "email_verified_at": null,
+        "created_at": "2022-02-02T11:00:07.000000Z",
+        "updated_at": "2022-02-02T11:00:07.000000Z",
+        "is_active": 1,
+        "shop_id": null
+      },
+      "products": [
+        {
+          "id": 45,
+          "name": "StoryHub WordPress Blog Theme",
+          "slug": "storyhub-wordpress-blog-theme-2",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "type_id": 1,
+          "price": 59,
+          "shop_id": 5,
+          "sale_price": 55,
+          "language": "en",
+          "min_price": 59,
+          "max_price": 59,
+          "sku": "8978d7f9e7f/we*f7/7f/ew7*f/w7we*/fwfweffwe",
+          "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+          "quantity": 500,
+          "in_stock": 1,
+          "is_taxable": 0,
+          "shipping_class_id": null,
+          "status": "publish",
+          "product_type": "simple",
+          "unit": "1",
+          "height": null,
+          "width": null,
+          "length": null,
+          "image": {
+            "id": 520,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/518/image05.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/518/conversions/image05-thumbnail.jpg"
+          },
+          "video": null,
+          "gallery": [
+            {
+              "id": 521,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/519/image05.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/519/conversions/image05-thumbnail.jpg"
+            },
+            {
+              "id": 522,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/520/image27.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/520/conversions/image27-thumbnail.jpg"
+            },
+            {
+              "id": 523,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/521/image36.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/521/conversions/image36-thumbnail.jpg"
+            },
+            {
+              "id": 524,
+              "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/522/image43.png",
+              "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/522/conversions/image43-thumbnail.jpg"
+            }
+          ],
+          "deleted_at": null,
+          "created_at": "2022-01-27T17:31:12.000000Z",
+          "updated_at": "2022-03-05T13:33:04.000000Z",
+          "author_id": null,
+          "manufacturer_id": null,
+          "is_digital": 1,
+          "is_external": 0,
+          "external_product_url": null,
+          "external_product_button_text": null,
+          "ratings": 4.33,
+          "total_reviews": 3,
+          "rating_count": [
+            {
+              "rating": 5,
+              "total": 1,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            },
+            {
+              "rating": 4,
+              "total": 2,
+              "positive_feedbacks_count": 0,
+              "negative_feedbacks_count": 0,
+              "my_feedback": null,
+              "abusive_reports_count": 0
+            }
+          ],
+          "my_review": [
+            {
+              "id": 5,
+              "order_id": 1,
+              "user_id": 3,
+              "shop_id": 5,
+              "product_id": 45,
+              "variation_option_id": null,
+              "comment": "I have tried different themes but Borobaz is a beast. Right features, cool design, and widely customizable. The support team provides a very good service replying in a couple of hours",
+              "rating": 5,
+              "photos": [],
+              "deleted_at": null,
+              "created_at": "2022-05-11T05:30:15.000000Z",
+              "updated_at": "2022-05-11T05:30:15.000000Z",
+              "positive_feedbacks_count": 1,
+              "negative_feedbacks_count": 0,
+              "my_feedback": {
+                "id": 22,
+                "user_id": 3,
+                "model_type": "Marvel\\Database\\Models\\Review",
+                "model_id": 5,
+                "positive": 1,
+                "negative": null,
+                "created_at": "2023-03-28T22:12:07.000000Z",
+                "updated_at": "2023-03-28T22:12:07.000000Z"
+              },
+              "abusive_reports_count": 0
+            }
+          ],
+          "in_wishlist": false,
+          "total_downloads": 1,
+          "blocked_dates": [],
+          "translated_languages": ["en"],
+          "pivot": {
+            "order_id": 73,
+            "product_id": 45,
+            "order_quantity": "1",
+            "unit_price": 55,
+            "subtotal": 55,
+            "variation_option_id": null,
+            "created_at": "2023-03-14T10:06:48.000000Z",
+            "updated_at": "2023-03-14T10:06:48.000000Z"
+          },
+          "variation_options": [],
+          "digital_file": {
+            "id": 45,
+            "attachment_id": 525,
+            "file_name": "",
+            "fileable_type": "Marvel\\Database\\Models\\Product",
+            "fileable_id": 45,
+            "created_at": "2022-01-27T17:31:12.000000Z",
+            "updated_at": "2022-03-05T13:33:04.000000Z"
+          }
+        }
+      ]
+    },
+    "file": {
+      "id": 45,
+      "attachment_id": 525,
+      "file_name": "",
+      "fileable_type": "Marvel\\Database\\Models\\Product",
+      "fileable_id": 45,
+      "created_at": "2022-01-27T17:31:12.000000Z",
+      "updated_at": "2022-03-05T13:33:04.000000Z",
+      "fileable": {
+        "id": 45,
+        "name": "StoryHub WordPress Blog Theme",
+        "slug": "storyhub-wordpress-blog-theme-2",
+        "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+        "type_id": 1,
+        "price": 59,
+        "shop_id": 5,
+        "sale_price": 55,
+        "language": "en",
+        "min_price": 59,
+        "max_price": 59,
+        "sku": "8978d7f9e7f/we*f7/7f/ew7*f/w7we*/fwfweffwe",
+        "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+        "quantity": 500,
+        "in_stock": 1,
+        "is_taxable": 0,
+        "shipping_class_id": null,
+        "status": "publish",
+        "product_type": "simple",
+        "unit": "1",
+        "height": null,
+        "width": null,
+        "length": null,
+        "image": {
+          "id": 520,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/518/image05.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/518/conversions/image05-thumbnail.jpg"
+        },
+        "video": null,
+        "gallery": [
+          {
+            "id": 521,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/519/image05.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/519/conversions/image05-thumbnail.jpg"
+          },
+          {
+            "id": 522,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/520/image27.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/520/conversions/image27-thumbnail.jpg"
+          },
+          {
+            "id": 523,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/521/image36.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/521/conversions/image36-thumbnail.jpg"
+          },
+          {
+            "id": 524,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/522/image43.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/522/conversions/image43-thumbnail.jpg"
+          }
+        ],
+        "deleted_at": null,
+        "created_at": "2022-01-27T17:31:12.000000Z",
+        "updated_at": "2022-03-05T13:33:04.000000Z",
+        "author_id": null,
+        "manufacturer_id": null,
+        "is_digital": 1,
+        "is_external": 0,
+        "external_product_url": null,
+        "external_product_button_text": null,
+        "ratings": 4.33,
+        "total_reviews": 3,
+        "rating_count": [
+          {
+            "rating": 5,
+            "total": 1,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          },
+          {
+            "rating": 4,
+            "total": 2,
+            "positive_feedbacks_count": 0,
+            "negative_feedbacks_count": 0,
+            "my_feedback": null,
+            "abusive_reports_count": 0
+          }
+        ],
+        "my_review": [
+          {
+            "id": 5,
+            "order_id": 1,
+            "user_id": 3,
+            "shop_id": 5,
+            "product_id": 45,
+            "variation_option_id": null,
+            "comment": "I have tried different themes but Borobaz is a beast. Right features, cool design, and widely customizable. The support team provides a very good service replying in a couple of hours",
+            "rating": 5,
+            "photos": [],
+            "deleted_at": null,
+            "created_at": "2022-05-11T05:30:15.000000Z",
+            "updated_at": "2022-05-11T05:30:15.000000Z",
+            "positive_feedbacks_count": 1,
+            "negative_feedbacks_count": 0,
+            "my_feedback": {
+              "id": 22,
+              "user_id": 3,
+              "model_type": "Marvel\\Database\\Models\\Review",
+              "model_id": 5,
+              "positive": 1,
+              "negative": null,
+              "created_at": "2023-03-28T22:12:07.000000Z",
+              "updated_at": "2023-03-28T22:12:07.000000Z"
+            },
+            "abusive_reports_count": 0
+          }
+        ],
+        "in_wishlist": false,
+        "total_downloads": 1,
+        "blocked_dates": [],
+        "translated_languages": ["en"],
+        "shop": {
+          "id": 5,
+          "owner_id": 1,
+          "name": "Omatron",
+          "slug": "omatron",
+          "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+          "cover_image": {
+            "id": 108,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/108/Cover-5.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/108/conversions/Cover-5-thumbnail.jpg"
+          },
+          "logo": {
+            "id": 109,
+            "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/109/Group-14395.png",
+            "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/109/conversions/Group-14395-thumbnail.jpg"
+          },
+          "is_active": 1,
+          "address": {
+            "zip": "07071",
+            "city": "Lyndhurst",
+            "state": "New Jersey",
+            "country": "USA",
+            "street_address": "4329 Deer Ridge Drive"
+          },
+          "settings": {
+            "contact": "0799302967",
+            "socials": [
+              {
+                "url": "https://www.instagram.com/redqinc/",
+                "icon": "InstagramIcon"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw",
+                "icon": "YouTubeIcon"
+              },
+              {
+                "url": "https://www.facebook.com/redqinc/",
+                "icon": "FacebookIcon"
+              }
+            ],
+            "website": "https://redq.io/",
+            "location": []
+          },
+          "created_at": "2022-01-26T09:00:06.000000Z",
+          "updated_at": "2022-02-15T06:10:05.000000Z"
+        },
+        "digital_file": {
+          "id": 45,
+          "attachment_id": 525,
+          "file_name": "",
+          "fileable_type": "Marvel\\Database\\Models\\Product",
+          "fileable_id": 45,
+          "created_at": "2022-01-27T17:31:12.000000Z",
+          "updated_at": "2022-03-05T13:33:04.000000Z"
+        }
+      }
+    }
+  }
+]

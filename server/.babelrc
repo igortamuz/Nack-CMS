@@ -1,0 +1,33 @@
+{
+  "presets": [
+    "@babel/preset-typescript",
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "node": true
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "db": "./src/db",
+          "middleware": "./src/middleware",
+          "controllers": "./src/controllers",
+          "interface": "./src/interface",
+          "utils": "./src/utils",
+          "routers": "./src/routers"
+        },
+        "extensions": [
+          ".ts"
+        ]
+      }
+    ],
+    "@babel/plugin-proposal-class-properties",
+    "@babel/plugin-proposal-object-rest-spread"
+  ]
+}

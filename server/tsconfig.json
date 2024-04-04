@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonJS",
+    "outDir": "dist",
+    "strict": true,
+    "strictNullChecks": false,
+    "strictPropertyInitialization": false,
+    "rootDir": "src",
+    "baseUrl": "src",
+    "allowJs": true,
+    "paths": {
+      "db/*": [
+        "db/*"
+      ],
+      "controllers/*": [
+        "controllers/*"
+      ],
+      "interface/*": [
+        "interface/*"
+      ],
+      "middleware/*": [
+        "middleware/*"
+      ],
+      "routers/*": [
+        "routers/*"
+      ],
+      "utils/*": [
+        "utils/*"
+      ]
+    },
+    "typeRoots": ["@types", "./node_modules/@types"],
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "exclude": [
+    "node_modules",
+    "public",
+    "dist"
+  ]
+}
+
